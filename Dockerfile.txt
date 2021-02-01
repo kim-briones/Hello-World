@@ -1,0 +1,3 @@
+FROM httpd:2.4
+EXPOSE 8080
+ADD target/Git-Jenkins-Docker.html
