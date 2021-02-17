@@ -2,4 +2,4 @@ FROM ubuntu
 
 RUN apt-get update
 
-CMD ["echo", "Hello world!"]
+CMD ["echo", "Hello world! Test2"]
